@@ -3,14 +3,15 @@
 
 
 
-- 🔭 I’m currently working as a Backend Engineer at Nimble.LA
-- 🌱 Learning Golang and C#
-- 💬 Ask me about my Steering Wheel Project or my Duel Disk
+- 👷 I’m currently working as a Backend Engineer at Nimble.LA
+- 🐳 Learning Docker and Kubernetes
+- 💬 Ask me about my Steering Wheel Project
 - 📫 How to reach me: augmas15@gmail.com
 - ⚡ Fun fact: My 3D Printer is always running
 
 ## :trophy: My Github Stats:
-![My github stats](https://github-readme-stats.vercel.app/api?username=amasetti&show_icons=true&theme=tokyonight ) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMAsetti&theme=tokyonight)
+![My github stats](https://github-readme-stats.vercel.app/api?username=amasetti&show_icons=true&theme=tokyonight ) 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMAsetti&theme=tokyonight) -->
 
 
 
@@ -56,7 +57,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+<!-- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) -->
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
