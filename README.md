@@ -1,15 +1,12 @@
-## I'm AMasetti but you can call me Tony
-![](https://visitor-badge.laobi.icu/badge?page_id=AMasetti.AMasetti) [![Github](https://img.shields.io/github/followers/AMasetti?label=Followers&logo=Github)](https://github.com/AMasetti)
 
+# AMasetti ![](https://visitor-badge.laobi.icu/badge?page_id=AMasetti.AMasetti) [![Github](https://img.shields.io/github/followers/AMasetti?label=Followers&logo=Github)](https://github.com/AMasetti)
 
+My name is Augusto and I love creating projects, a couple of things about me:
+- I’m currently Data Team Lead at Nimble.LA
+- Currently working on IoT Environmental Projects
+- Ask me about Project EKO
+- **Fun fact:** My 3D Printer is always running
 
-- 👷 I’m currently working as a Backend Engineer at Nimble.LA
-- 🐳 Learning Docker and Kubernetes
-- 💬 Ask me about my Steering Wheel Project
-- 📫 How to reach me: augmas15@gmail.com
-- ⚡ Fun fact: My 3D Printer is always running
-
-## :trophy: My Github Stats:
 ![My github stats](https://github-readme-stats.vercel.app/api?username=amasetti&show_icons=true&theme=tokyonight ) 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMAsetti&theme=tokyonight) -->
 
@@ -27,9 +24,9 @@
 
 <br />
  -->
-## 🧰 Languages and Tools:
 <!-- https://github.com/Ileriayo/markdown-badges#frameworks-platforms-and-libraries -->
 
+### Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -39,11 +36,11 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2300f.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+
+### Frameworks:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -55,13 +52,12 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
+### Editors:
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-<!-- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) -->
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
+### Version Control:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
