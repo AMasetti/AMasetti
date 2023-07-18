@@ -7,7 +7,7 @@ My name is Augusto and I love creating projects, a couple of things about me:
 - Ask me about Project EKO
 - **Fun fact:** My 3D Printer is always running
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=amasetti&show_icons=true&theme=tokyonight ) 
+<!--![My github stats](https://github-readme-stats.vercel.app/api?username=amasetti&show_icons=true&theme=tokyonight ) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMAsetti&theme=tokyonight) -->
 
 
